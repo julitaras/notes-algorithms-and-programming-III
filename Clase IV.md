@@ -77,7 +77,6 @@ code {
 <li><a href="#clase-nº-4">Clase nº 4</a></li>
 </ul>
 
-    </div>
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
@@ -117,8 +116,6 @@ Podemos ver quienes implementa el mensaje en el boton de <mark>implementors</mar
 </li>
 </ol>
 </section>
-
-    </div>
   </div>
 </body>
 
